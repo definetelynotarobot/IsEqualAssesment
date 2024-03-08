@@ -41,7 +41,7 @@ List<string> canBeEqualized(List<string> firstStrings, List<string> secondString
 
             }
             //Ekstra NO eklediği ve gerek duyulmadığı için kaldırdım.
-            result.Add("NO");
+           // result.Add("NO");
 
         }
     
